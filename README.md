@@ -1,1 +1,4 @@
 # COVID-Onto
+We will propose an ontology (COVID Onto) focused on the COVID-19, covering related concepts in Diseases, Clinical Presentations, Anatomic Sites, Demographic and Socioeconomic Characteristics, Organisms, Substances, Psychological Assistance, Epidemic Prevention and Control, Medical Equipment, Instruments and Materials, Treatment Techniques and Methods and Qualifiers. COVID Onto aims to represent and standardize the entities associated with COVID-19 in bilingual terms (Chinese and English). Most of these concepts and terms were extracted from literatures and processed and reviewed manually. We hope this work can help to support data aggregation and knowledge discovery in the prevention and control of COVID-19. 
+Please note that this is an ongoing work, and concepts, text definitions and relations will be continuously filled in the ontology.
+This work is supported by the National Key Research and Development Program of China (Grant No. 2016YFC0901901)
